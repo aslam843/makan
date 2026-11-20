@@ -1,0 +1,8 @@
+{
+  "name": "MAKANI — Intelligent Real Estate Advisory",
+  "description": "Data-backed real estate advisory and property discovery platform for homebuyers in Bengaluru and Mumbai. Compare projects, inspect floor plans, and buy with zero sales pressure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
